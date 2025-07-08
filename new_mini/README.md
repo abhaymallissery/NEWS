@@ -1,3 +1,3 @@
-# new_mini
+# news
 
 A new Flutter project.
